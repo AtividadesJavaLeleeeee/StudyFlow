@@ -1,5 +1,4 @@
 # StudyFlow
-# StudyFlow
 
 ## 📘 Descrição do Projeto
 
